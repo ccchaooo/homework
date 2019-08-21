@@ -2,7 +2,7 @@
 提高可靠性,避免不经意的修改
 
 # Why should you understand performance of String Concatenation?
-这样我们可以在对字符串进行操作时,避免创建大量无用的临时对象.
+这样我们可以在对字符串进行操作时,避免创建大量无用的临时对象.同时对性能有了解
 
 # What are the best practices with Exception Handling?
 1. 仅仅在需要的时候才是用异常
