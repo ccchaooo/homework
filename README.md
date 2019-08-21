@@ -1,4 +1,3 @@
-# homework
 # Why should you have minimum scope for variables?
 提高可靠性,避免不经意的修改
 
