@@ -30,6 +30,7 @@
   2. 确保class不可被继承
   3. 确保所有属性都是私有的
   4. 杜绝一切可变组件
+  
 java类的不可变对象包括:String 基本类型的包装类,BigInteger,BigDecimal
 
 不可变对象的优点:
